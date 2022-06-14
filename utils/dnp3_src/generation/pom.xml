@@ -23,7 +23,7 @@
         <maven-source-plugin.version>2.1.2</maven-source-plugin.version>
         <maven-bundle.version>2.1.0</maven-bundle.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.13.8</scala.version>
         <surefire-plugin.version>2.12.4</surefire-plugin.version>
     </properties>
 
@@ -37,7 +37,7 @@
 
     <scm>
         <url>https://github.com/automatak/dnp3.git</url>
-        <connection></connection>
+        <connection/>
     </scm>
 
     <developers>
